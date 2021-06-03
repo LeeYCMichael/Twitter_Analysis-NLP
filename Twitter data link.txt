@@ -1,1 +1,3 @@
 https://www.kaggle.com/kazanova/sentiment140?select=training.1600000.processed.noemoticon.csv
+
+The CSV file is way too big(250++MB), and GitHub only allos 25MB and below. There are 1.6 million tweets after all, so here's the link to the dataset if you need it! Enjoy!
