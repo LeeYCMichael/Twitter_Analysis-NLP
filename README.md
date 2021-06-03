@@ -1,4 +1,4 @@
-# Twitter_Analysis-Works-for-any-other-text-reallly-
+# Twitter_Analysis-Works-for-any-other-text-really-
 A sentiment analysis using a BERT model
 
 The following is a neural network model that is able to perform sentiment analysis on text.
