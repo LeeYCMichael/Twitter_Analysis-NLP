@@ -15,8 +15,6 @@ I did some data cleaning prior to training the model. Some things i did include
 3) Removing all the username references like @Username_Blah1
 
 I deemed all these 'words' as unnecesary and unlikely to affect the model. Hence, why i removed them
-That being said, i do acknowldge the act that some usernames coukd perhaps be treated with negative/positive sentiments more often that not eh. JoelGlazer or DonaldTrump maybr
-Hoeever, for the purposes of convenience, lets ignore this. Perhaps one thing we could do is to add a 'negative-weight' / 'positive-weight' to such usernames, but lets not get too deep into it.
 
 The model gave an accuracy of around 0.75.
 This could have been improved if i 
@@ -24,7 +22,7 @@ This could have been improved if i
 2) Added more data
 3) Played around with more hyperparameters
 
-Even so, i think its a rather decent indicator, and after entering some 'tweets' of my own, it worked deently well. 
+Even so, i think its a rather decent indicator, and after entering some 'tweets' of my own, it worked decently well. 
 
 Some limitations include
 1) Text entered cannot be more than 50 words long (This is to prevent the matrices from becoming too big which can present a problem when we're training the model)
